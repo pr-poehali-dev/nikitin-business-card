@@ -6,14 +6,14 @@ const Header = () => {
           Владимир Никитин
         </h1>
         <p className="text-xl mb-6 text-slate-300">
-          Бизнес-консультант • Эксперт по развитию предпринимательства
+          Бизнесмен • SEO боХ • Эксперт по развитию предпринимательства
         </p>
         <p className="text-lg mb-8 max-w-2xl mx-auto leading-relaxed">
           Помогаю начинающим предпринимателям построить успешный бизнес и
           избежать критических ошибок на пути к цели
         </p>
         <button className="bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-lg text-lg font-semibold transition-colors">
-          Получить консультацию
+          Получить возможность
         </button>
       </div>
     </header>

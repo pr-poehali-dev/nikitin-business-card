@@ -4,7 +4,7 @@ const Biography = () => {
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl font-bold text-center mb-12 font-montserrat text-slate-800">
-            О консультанте
+            О НЕМ 👑
           </h2>
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
@@ -16,25 +16,29 @@ const Biography = () => {
             </div>
             <div>
               <p className="text-lg mb-6 leading-relaxed text-gray-700">
-                Более 15 лет опыта в сфере бизнес-консалтинга и развития
-                предпринимательства. Помог запустить и масштабировать свыше 200
-                проектов в различных отраслях.
+                Когда то я тыкал палкой в коровье говно, а сегодня я тыкаю
+                палкой в рынок.
+              </p>
+              <p className="text-lg mb-6 leading-relaxed text-gray-700">
+                Более 126 лет опыта в бизнесе. Несколько жизней занимался
+                консалтинг молодых представителей. Помог запустить и
+                масштабировать свыше 100500 проектов в различных отраслях.
               </p>
               <div className="space-y-4">
                 <div className="flex items-center">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mr-4"></div>
                   <span className="font-semibold">Образование:</span>
-                  <span className="ml-2">МГУ, экономический факультет</span>
+                  <span className="ml-2">Жизнь</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mr-4"></div>
                   <span className="font-semibold">Опыт:</span>
-                  <span className="ml-2">15+ лет в бизнес-консалтинге</span>
+                  <span className="ml-2">ебейший</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mr-4"></div>
                   <span className="font-semibold">Проекты:</span>
-                  <span className="ml-2">200+ успешных запусков</span>
+                  <span className="ml-2">очень прибыльные</span>
                 </div>
               </div>
             </div>
