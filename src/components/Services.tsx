@@ -64,7 +64,7 @@ const Services = () => {
             Готов помочь вашему бизнесу выйти на новый уровень
           </p>
           <button className="bg-slate-800 hover:bg-slate-900 text-white px-8 py-3 rounded-lg text-lg font-semibold transition-colors">
-            Записаться на консультацию
+            Просить о помощи
           </button>
         </div>
       </div>
