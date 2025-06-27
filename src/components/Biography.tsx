@@ -33,12 +33,12 @@ const Biography = () => {
                 <div className="flex items-center">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mr-4"></div>
                   <span className="font-semibold">Опыт:</span>
-                  <span className="ml-2">ебейший</span>
+                  <span className="ml-2">Ебейший</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mr-4"></div>
                   <span className="font-semibold">Проекты:</span>
-                  <span className="ml-2">очень прибыльные</span>
+                  <span className="ml-2">Очень прибыльные</span>
                 </div>
               </div>
             </div>
