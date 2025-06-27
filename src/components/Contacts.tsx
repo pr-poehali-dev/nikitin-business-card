@@ -40,14 +40,6 @@ const Contacts = () => {
                 <span>Понедельник - Воскресение:</span>
                 <span>08:00 - 07:00</span>
               </div>
-              <div className="flex justify-between">
-                <span>Суббота:</span>
-                <span>10:00 - 16:00</span>
-              </div>
-              <div className="flex justify-between">
-                <span>Воскресенье:</span>
-                <span>Выходной</span>
-              </div>
             </div>
             <div className="mt-6 p-4 bg-slate-700 rounded-lg">
               <p className="text-sm text-slate-300">
