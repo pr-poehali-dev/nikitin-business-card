@@ -9,7 +9,7 @@ const Biography = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=500&fit=crop&crop=face"
+                src="https://cdn.poehali.dev/files/2bc08b93-1a0a-4418-b0a9-13ceb0189cf0.jpg"
                 alt="Владимир Никитин"
                 className="rounded-lg shadow-lg w-full max-w-sm mx-auto"
               />
