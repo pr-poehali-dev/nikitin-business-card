@@ -21,7 +21,9 @@ const Contacts = () => {
               </div>
               <div className="flex items-center">
                 <span className="text-blue-400 mr-4">📍</span>
-                <span>Новосибирск, я Деловой</span>
+                <span>
+                  Новосибирск, я Деловой и Центр и я в центре и в Деловом
+                </span>
               </div>
               <div className="flex items-center">
                 <span className="text-blue-400 mr-4">💼</span>
