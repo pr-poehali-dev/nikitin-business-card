@@ -7,32 +7,36 @@ const Contacts = () => {
         </h2>
         <div className="max-w-4xl mx-auto grid md:grid-cols-2 gap-12">
           <div>
-            <h3 className="text-xl font-semibold mb-6">Свяжитесь со мной</h3>
+            <h3 className="text-xl font-semibold mb-6">
+              Свяжитесь со мной, если сможете
+            </h3>
             <div className="space-y-4">
               <div className="flex items-center">
                 <span className="text-blue-400 mr-4">📞</span>
-                <span>+7 (495) 123-45-67</span>
+                <span>+7 (923)-137-26-05</span>
               </div>
               <div className="flex items-center">
                 <span className="text-blue-400 mr-4">✉️</span>
-                <span>vladimir.nikitin@business-consulting.ru</span>
+                <span>vovanikitin_19@mail.ru</span>
               </div>
               <div className="flex items-center">
                 <span className="text-blue-400 mr-4">📍</span>
-                <span>Москва, Деловой центр</span>
+                <span>Новосибирск, я Деловой</span>
               </div>
               <div className="flex items-center">
                 <span className="text-blue-400 mr-4">💼</span>
-                <span>Telegram: @vladimir_consultant</span>
+                <span>Telegram: @NV_ladimir</span>
               </div>
             </div>
           </div>
           <div>
-            <h3 className="text-xl font-semibold mb-6">Режим работы</h3>
+            <h3 className="text-xl font-semibold mb-6">
+              Режим работы очень плотный
+            </h3>
             <div className="space-y-3">
               <div className="flex justify-between">
-                <span>Понедельник - Пятница:</span>
-                <span>9:00 - 18:00</span>
+                <span>Понедельник - Воскресение:</span>
+                <span>08:00 - 07:00</span>
               </div>
               <div className="flex justify-between">
                 <span>Суббота:</span>
