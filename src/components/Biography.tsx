@@ -16,13 +16,16 @@ const Biography = () => {
             </div>
             <div>
               <p className="text-lg mb-6 leading-relaxed text-gray-700">
-                Когда то я тыкал палкой в коровье говно, а сегодня я тыкаю
-                палкой в рынок.
+                "Когда то я тыкал палкой в коровье говно, а сегодня я тыкаю
+                палкой в рынок."
               </p>
               <p className="text-lg mb-6 leading-relaxed text-gray-700">
                 Более 126 лет опыта в бизнесе. Несколько жизней занимался
                 консалтинг молодых представителей. Помог запустить и
                 масштабировать свыше 100500 проектов в различных отраслях.
+              </p>
+              <p className="text-lg mb-6 leading-relaxed text-gray-700">
+                Знает много крутых дядек.
               </p>
               <div className="space-y-4">
                 <div className="flex items-center">
