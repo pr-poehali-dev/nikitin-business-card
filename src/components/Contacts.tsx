@@ -1,0 +1,58 @@
+const Contacts = () => {
+  return (
+    <section className="py-16 bg-slate-800 text-white">
+      <div className="container mx-auto px-6">
+        <h2 className="text-3xl font-bold text-center mb-12 font-montserrat">
+          Контакты
+        </h2>
+        <div className="max-w-4xl mx-auto grid md:grid-cols-2 gap-12">
+          <div>
+            <h3 className="text-xl font-semibold mb-6">Свяжитесь со мной</h3>
+            <div className="space-y-4">
+              <div className="flex items-center">
+                <span className="text-blue-400 mr-4">📞</span>
+                <span>+7 (495) 123-45-67</span>
+              </div>
+              <div className="flex items-center">
+                <span className="text-blue-400 mr-4">✉️</span>
+                <span>vladimir.nikitin@business-consulting.ru</span>
+              </div>
+              <div className="flex items-center">
+                <span className="text-blue-400 mr-4">📍</span>
+                <span>Москва, Деловой центр</span>
+              </div>
+              <div className="flex items-center">
+                <span className="text-blue-400 mr-4">💼</span>
+                <span>Telegram: @vladimir_consultant</span>
+              </div>
+            </div>
+          </div>
+          <div>
+            <h3 className="text-xl font-semibold mb-6">Режим работы</h3>
+            <div className="space-y-3">
+              <div className="flex justify-between">
+                <span>Понедельник - Пятница:</span>
+                <span>9:00 - 18:00</span>
+              </div>
+              <div className="flex justify-between">
+                <span>Суббота:</span>
+                <span>10:00 - 16:00</span>
+              </div>
+              <div className="flex justify-between">
+                <span>Воскресенье:</span>
+                <span>Выходной</span>
+              </div>
+            </div>
+            <div className="mt-6 p-4 bg-slate-700 rounded-lg">
+              <p className="text-sm text-slate-300">
+                💡 Первая консультация (30 минут) — бесплатно
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default Contacts;
